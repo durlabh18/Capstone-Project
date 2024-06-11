@@ -1,0 +1,32 @@
+.footer-final{
+    margin-top: auto;
+    background-color:black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    gap: 50px;
+    font-size: 15px;
+    font-weight: 500;
+    display: flex;
+    padding-right: 6rem;
+}
+
+.footer-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.footer-content > a{
+    display: flex;
+    align-items: center ;
+    gap: 50px;
+    padding-right: 6rem;
+    list-style: none;
+    text-decoration: none;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
